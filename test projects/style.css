@@ -1,0 +1,20 @@
+h1{
+
+    background-image: url(./just-some-of-the-photo-mode-pics-im-proud-of-miles-morales-v0-0tt7wtaeww491.webp);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    text-align: center;
+    font-size: 5rem;
+    text-transform: uppercase;
+    font-family: "Luckiest Guy", cursive ;
+    margin-top: 400px;
+
+}
+
+
+
+
+
+*{
+background-color: black;    
+}
